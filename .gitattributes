@@ -1,0 +1,93 @@
+# A++
+*.a++ linguist-language=A++
+
+# Assembly
+*.asm linguist-language=Assembly
+*.s linguist-language=Assembly
+
+# Bash
+*.sh linguist-language=Shell
+
+# C
+*.c linguist-language=C
+*.h linguist-language=C
+
+# C#
+*.cs linguist-language=C#
+
+# C++
+*.cpp linguist-language=C++
+*.hpp linguist-language=C++
+*.h linguist-language=C++
+
+# Circle
+*.circle linguist-language=Circle
+
+# Coq
+*.v linguist-language=Coq
+
+# CSS
+*.css linguist-language=CSS
+
+# D
+*.d linguist-language=D
+
+# Go
+*.go linguist-language=Go
+
+# Haskell
+*.hs linguist-language=Haskell
+
+# HTML
+*.html linguist-language=HTML
+
+# Jai
+*.jai linguist-language=Jai
+
+# Java
+*.java linguist-language=Java
+
+# JavaScript
+*.js linguist-language=JavaScript
+*.jsx linguist-language=JavaScript
+
+# LATEX
+*.tex linguist-language=TeX
+
+# Markdown
+*.md linguist-language=Markdown
+
+# MATLAB
+*.m linguist-language=MATLAB
+
+# Nim
+*.nim linguist-language=Nim
+
+# Ocaml
+*.ml linguist-language=OCaml
+*.mli linguist-language=OCaml
+
+# Odin
+*.odin linguist-language=Odin
+
+# PowerShell
+*.ps1 linguist-language=PowerShell
+
+# Python
+*.py linguist-language=Python
+
+# Rust
+*.rs linguist-language=Rust
+
+# TCL
+*.tcl linguist-language=Tcl
+
+# TypeScript
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+
+# V
+*.v linguist-language=V
+
+# Zig
+*.zig linguist-language=Zig

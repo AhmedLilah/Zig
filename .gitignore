@@ -1,0 +1,341 @@
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# A++
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Assembly
+*.o
+*.lst
+
+# Bash
+*.sh.swp
+*.bak
+*.tmp
+
+# C
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# C#
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.csproj.user
+*.user
+*.suo
+bin/
+obj/
+
+# C++
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+
+# Circle
+# Add any specific ignores if needed
+
+# Coq
+*.vo
+*.glob
+
+# CSS
+*.css.map
+
+# D
+*.o
+*.a
+*.so
+*.dll
+*.exe
+dub.selections.json
+.dub/
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Haskell
+*.hi
+*.o
+dist/
+dist-newstyle/
+*.prof
+*.aux
+*.hp
+
+# HTML
+*.html.swp
+
+# Jai
+# Add any specific ignores if needed
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+build/
+*.project
+*.classpath
+*.settings/
+*.metadata/
+
+# JavaScript
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.js.map
+dist/
+
+# LATEX
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+
+# Markdown
+*.markdown.swp
+
+# MATLAB
+*.asv
+*.mexglx
+*.mexmaci
+*.mexmaci64
+*.mexw32
+*.mexw64
+*.mnk
+*.mexa64
+*.mexsol
+*.autosave
+
+# Nim
+nimcache/
+*.exe
+
+# Ocaml
+*.cmo
+*.cmi
+*.cmt
+*.cmti
+*.cmx
+*.o
+*.a
+*.so
+*.byte
+*.native
+
+# Odin
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# PowerShell
+*.ps1xml.swp
+*.ps1.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+*.pyd
+*.pyp
+*.pyo
+*.pys
+*.pyw
+*.tmp
+*.log
+*.coverage
+*.egg-info/
+*.eggs/
+*.whl
+*.mypy_cache/
+*.pytest_cache/
+*.tox/
+dist/
+build/
+
+# Rust
+target/
+*.rs.bk
+*.rs.swp
+
+# TCL
+*.tcl.swp
+
+# TypeScript
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+*.tsbuildinfo
+dist/
+*.d.ts
+
+# V
+*.v.swp
+
+# Zig
+zig-cache/
+zig-out/
+*.o
+*.so
+*.a
+*.exe
+
+# General
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Git
+# .git/
+# .gitignore
+# .gitmodules
+# .gitattributes
+# .gitkeep
+# .gitconfig
+
+# IDEs and Editors
+# JetBrains IDEs (IntelliJ IDEA, WebStorm, PyCharm, etc.)
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.user
+*.suo
+*.cache
+*.pdb
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.ipch
+*.iobj
+*.ipdb
+*.res
+*.rsp
+*.rpt
+*.tlb
+*.tli
+*.tlh
+*.tlog
+*.tmp_proj
+*.log
+*.wrn
+*.err
+*.idb
+*.o
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.scc
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Vim
+*.swp
+*.swo
+*.swn
+*.viminfo
+*.un~
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+DerivedData/
+.idea/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcshareddata/
+*.xcscmblueprint
+
+# Other
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
