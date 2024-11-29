@@ -12,6 +12,8 @@ pub fn main() !void {
         std.debug.print("by ref: {}\n", .{elem.*});
     }
 
+    // array = {101, 102, 103, 104, 105}
+
     for (array, &array) |val, *ref| {
         _ = val;
         _ = ref;

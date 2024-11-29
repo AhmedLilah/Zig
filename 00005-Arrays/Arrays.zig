@@ -13,10 +13,13 @@ pub fn main() !void {
     d[1] = 11;
     d[2] = 12;
 
+    // prints 3
     print("len: {}\n", .{c.len});
 
+    // prints "1, 2, 3, 1, 2, 3"
     print("repeat: {any}\n", .{a ** 2});
 
+    // prints "1, 2, 3, 4, 5, 6"
     print("concat: {any}\n", .{a ++ b});
 
     for (d) |elem| {

@@ -10,5 +10,5 @@ pub fn main() !void {
     ;
 
     const stdout = std.io.getStdOut().writer();
-    try stdout.print("cProgram:\n{s}\ntab\t doublequotes:\"\" \' \rhi", .{cProgram});
+    try stdout.print("cProgram:\n{s}\ntab\tdoublequotes:\"\" \' \rhi", .{cProgram});
 }
